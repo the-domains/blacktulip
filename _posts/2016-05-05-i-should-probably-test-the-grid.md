@@ -1,14 +1,23 @@
 ---
-dateModified: '2016-05-05T17:37:40.996Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
-title: I should probably test the Grid
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: ''
+datePublished: '2016-05-05T17:52:32.969Z'
+dateModified: '2016-05-05T17:43:31.152Z'
+title: I should probably test the Grid
 author: []
-starred: false
-datePublished: '2016-05-05T17:40:44.172Z'
 sourcePath: _posts/2016-05-05-i-should-probably-test-the-grid.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
