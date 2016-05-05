@@ -1,7 +1,7 @@
 name: blacktulip
 favicon: null
-layout_spectrum: 0.12294281623326242
-typography_spectrum: 0.7108401618897915
+layout_spectrum: 1
+typography_spectrum: 0.3252
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.31113114883191884
+    - '#050505'
+    - '#ffffff'
+    - '#343434'
+    - '#8a8a8a'
+    - '#bababa'
+  brandStrength: 0.5625
   lightness: 0.8101229027379304
   saturation: 0.5424958006478846
   rhythmicContrast: 0.4208412035368383
