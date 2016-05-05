@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: something I wrote a long time ago
-datePublished: '2016-05-05T17:45:02.152Z'
-dateModified: '2016-05-05T17:44:40.505Z'
+datePublished: '2016-05-05T18:00:26.010Z'
+dateModified: '2016-05-05T17:45:38.869Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-something-i-wrote-a-long-time-ago.md
